@@ -7,7 +7,7 @@ The system is composed of multiple microservices, each hosted in its own reposit
 
 ## 🧩 Scope
 
-The software architecture consists of 23 microservices that collectively implement the application developed within the GSDPI group’s research and educational projects.  
+The software architecture consists of several microservices that collectively implement the application developed within the GSDPI group’s research and educational projects.  
 Although each microservice resides in an independent repository, **all of them share the same ownership and licensing conditions** described below.
 
 ---
@@ -71,3 +71,4 @@ It is part of the research carried out under the following national project:
 ---
 
 *This documentation repository is maintained by the GSDPI Research Group, University of Oviedo.*
+
